@@ -1,1 +1,0 @@
-alert("JAVASCRIPT ALERT \n Welcome to Javascript Land... \n Happy Coding!"); //Using Line Break
