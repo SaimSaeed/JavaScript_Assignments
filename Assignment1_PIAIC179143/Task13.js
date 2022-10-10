@@ -1,0 +1,15 @@
+var a = 10;
+document.write("<h2>Result: </h2>","<br>");
+document.write("The value of a is: ",a, "<br>");
+++a;
+document.write("The value of ++a is: ",a, "<br>");
+document.write("Now the value of a is: ",a, "<br>");
+var b = a++;
+document.write("The value of a++ is: ",b, "<br>");
+document.write("Now the value of a++ is: ",a, "<br>");
+--a;
+document.write("The value of --a is: ",a, "<br>");
+document.write("Now the value of a is: ",a, "<br>");
+var c = a--;
+document.write("The value of a-- is: ",c, "<br>");
+document.write("Now the value of a is: ",a, "<br>");
